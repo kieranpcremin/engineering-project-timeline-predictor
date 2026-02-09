@@ -30,8 +30,9 @@ Thumbs.db
 # Streamlit
 .streamlit/
 
-# Learning notes
-# learningnotes.md
+# Learning notes / Q&A (personal, not for repo)
+learningnotes.md
+QandA.md
 
 # Claude Code
 .claude/
