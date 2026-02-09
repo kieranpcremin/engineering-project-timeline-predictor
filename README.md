@@ -11,6 +11,10 @@
 
 ---
 
+---
+<img width="1385" height="863" alt="image" src="https://github.com/user-attachments/assets/68a1ec81-40e2-4cdf-a708-4c551bf068a0" />
+---
+
 ## What This Project Does
 
 Input project characteristics — type, size, complexity, budget, regulatory environment — and the model predicts how many weeks the project will take to complete.
@@ -20,13 +24,7 @@ Input project characteristics — type, size, complexity, budget, regulatory env
 - **Domain-driven feature engineering** — derived features encoding construction industry knowledge that boost model performance
 - **Interactive demo** — 4-tab Streamlit web app with predictions, model comparison, and feature importance analysis
 
----
 
-## Demo
-
-<!-- Add screenshot here -->
-
----
 
 ## Results
 
