@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (generated, not tracked)
+data/
+
+# Models (trained artifacts, not tracked)
+models/*.joblib
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/
+
+# Learning notes
+# learningnotes.md
+
+# Claude Code
+.claude/
+
+# Misc
+*.log
+*.tmp
+nul
